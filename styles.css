@@ -33,7 +33,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 60px;
+    height: 70px;
     width: 100%;
     border-bottom: 3px solid white;
 }
@@ -63,25 +63,7 @@ ol,ul{
     align-items: center;
     padding: 0 10px;
 }
-
-/* body */
-.main-header-container{
-    height: 500px;
-    display: flex;
-    background-image: url(/Imágenes/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg);
-    background-size: 100%;
-    text-align: center;
-    justify-content: center;
-}
-.main-header-container h1{
-    font-size: 40px;
-    display: flex;
-    text-align: center;
-    align-items: center;
-}
-.main-header-container h1 strong{
-    color: var(--azul-oscuro);
-}
+/* footers */
 .footer-container{
     height: 100px;
 }
@@ -110,4 +92,30 @@ ol,ul{
     text-align: center;
     align-items: center;
     border-top: 1px solid white;
+}
+
+
+/* index */
+.main-header-container{
+    height: 600px;
+    display: flex;
+    background-image: url(/Imágenes/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg);
+    background-size: 100%;
+    text-align: center;
+    justify-content: center;
+}
+.main-header-container h1{
+    font-size: 40px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.main-header-container h1 strong{
+    color: var(--azul-oscuro);
+}
+
+/* about */
+.main-about-container{
+    padding: 70px 40px;
+    background-color: var(-);
 }

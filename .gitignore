@@ -1,3 +1,4 @@
 *.jpeg
 *.png
-*.jpe
+*.jpg
+./assets/

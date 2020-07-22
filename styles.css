@@ -66,10 +66,9 @@ ol,ul{
 
 /* body */
 .main-header-container{
-    background-color: var(--gris);
     height: 500px;
     display: flex;
-    background-image: url(./Imágenes/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg);
+    background-image: url(/Imágenes/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg);
     background-size: 100%;
     text-align: center;
     justify-content: center;

@@ -169,9 +169,13 @@ ol,ul{
     border-radius: 5px;
     text-align: center;
 }
+.proyects h4{
+    margin: 5px 0;
+}
 .proyects img{
     width: 100%;
     display: flex;
+    border-radius: 2%;
 }
 .about-techs-cotainer h3{
     color: black;

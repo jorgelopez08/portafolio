@@ -139,6 +139,7 @@ ol,ul{
 }
 .about-container p{
     padding: 0 40px;
+    font-size: 15px;
     text-align: center;
 }
 /* .about-proyects-container{

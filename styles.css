@@ -27,7 +27,7 @@ body{
     color: white;
 }
 /* Headers */
-.header{
+.header {
     background-color: var(--azul-cielo);
     color: white;
     display: flex;
@@ -37,7 +37,8 @@ body{
     width: 100%;
     border-bottom: 3px solid white;
 }
-header h1{
+header a h1{
+    color: white;
     padding: 20px;
 }
 .menu{
